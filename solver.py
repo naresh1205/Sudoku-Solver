@@ -79,7 +79,7 @@ def find_empty(bo):
 #printing board before solving
 print_board(board)
 
-print("~~~~~~~~~~~~~~~~~~~~~~~")
+print("-------")
 solve(board)
 
 #printing solved board
